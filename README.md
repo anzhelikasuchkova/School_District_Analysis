@@ -21,6 +21,7 @@ Analysis on high school district performance using Jupyter Notebook with Python,
 - Language: Python 3.9.7
 
 ## Analysis Results
+### 1. How is the district summary affected?
 
 
 

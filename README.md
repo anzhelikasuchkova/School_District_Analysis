@@ -35,5 +35,12 @@ Updated District Summary
 - **% Passing Reading** decreased by 0.1%. 
 - **% Overall Passing** decreased by 0.3%. 
 
+### 2. How is the school summary affected?
+
+Original School Summary
+<img width="994" alt="Original School Summary" src="https://user-images.githubusercontent.com/93845867/150446501-0f57dad4-c761-4566-81f1-78da7354417b.png">
+
+
+
 ## Summary
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.

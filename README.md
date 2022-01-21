@@ -94,7 +94,12 @@ Updated Scores by School Spending
 In **$630-644** spending range Reading Passing Percentage decreased by 0.1% so Overall Passing Percentage decreased by 0.1%.
 
 - Scores by school size
+ 
+Replacing the ninth-grade scores had very little impact.
+
 - Scores by school type
+
+Replacing the ninth-grade scores had very little impact.
 
 ## Summary
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.

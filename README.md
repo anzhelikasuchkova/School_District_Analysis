@@ -23,9 +23,10 @@ Analysis on high school district performance using Jupyter Notebook with Python,
 ## Analysis Results
 ### 1. How is the district summary affected?
 
+Original District Summary
 <img width="935" alt="Original District Summary" src="https://user-images.githubusercontent.com/93845867/150443554-1bc1884e-cabe-405d-8754-2c985516ce98.png">
 
-
+Updated District Summary
 <img width="930" alt="Revised District Summary" src="https://user-images.githubusercontent.com/93845867/150443559-f1e696d4-4417-4a9e-8905-e9117d8ae677.png">
 
 

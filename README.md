@@ -40,6 +40,8 @@ Updated District Summary
 Original School Summary
 <img width="994" alt="Original School Summary" src="https://user-images.githubusercontent.com/93845867/150446501-0f57dad4-c761-4566-81f1-78da7354417b.png">
 
+Updated School Summary
+<img width="998" alt="Revised School Summary" src="https://user-images.githubusercontent.com/93845867/150446817-3ad01200-005d-4d8b-8285-434d59eb4bd4.png">
 
 
 ## Summary

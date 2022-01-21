@@ -91,6 +91,8 @@ Updated Scores by School Spending
 
 <img width="644" alt="Updated Scores by School Spending" src="https://user-images.githubusercontent.com/93845867/150455776-cb06a9f7-58dd-45ec-9c07-01515c215488.png">
 
+In **$630-644** spending range Reading Passing Percentage decreased by 0.1% so Overall Passing Percentage decreased by 0.1%.
+
 - Scores by school size
 - Scores by school type
 

@@ -43,7 +43,7 @@ Original School Summary
 Updated School Summary
 <img width="998" alt="Revised School Summary" src="https://user-images.githubusercontent.com/93845867/150446817-3ad01200-005d-4d8b-8285-434d59eb4bd4.png">
 
-Removing the 9th grade students from the data set had a large impact by dropping from 91% to 65% for the overall passing rate.
+Removing the 9th grade students from the data set had a large impact by dropping from **91% to 65%** for the overall passing rate.
 
 ## Summary
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.

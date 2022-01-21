@@ -54,9 +54,6 @@ Updated Thomas High School’s Performance Relative to Other Schools
 <img width="1003" alt="Updated Schools" src="https://user-images.githubusercontent.com/93845867/150453018-910ebf31-1818-4829-a8e1-30d6eece3a1e.png">
 
 - The overall passing percentages of Thomas High School decreased. 
-- The average scores of Thomas High School for math and reading increased by 0.06
-For the spending range of $630-644 per student, the overall passing percentage decreased by 0.1%
-School rankings are unchanged. Thomas High School is still the second best performing school in the district with an overall passing rate of 90.63% among their tenth through twelfth graders.
 
 ## Summary
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.

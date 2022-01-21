@@ -60,6 +60,7 @@ Updated Top 5 Schools
 <img width="999" alt="Updated Best Schools" src="https://user-images.githubusercontent.com/93845867/150453858-b4bd74a4-09d3-4dc8-a7e5-74714f23059c.png">
 
 - The overall passing percentages of Thomas High School decreased. 
+- School's overall standing didn't change.
 
 ### 4. How does replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade

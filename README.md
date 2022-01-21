@@ -29,11 +29,11 @@ Original District Summary
 Updated District Summary
 <img width="930" alt="Revised District Summary" src="https://user-images.githubusercontent.com/93845867/150443559-f1e696d4-4417-4a9e-8905-e9117d8ae677.png">
 
--Average Math Score decresed by 0.1%. 
--Average Reading Score stayed the same. 
--% Passing Math decreased by 0.2%. 
--% Passing Reading decreased by 0.1%. 
--% Overall Passing decreased by 0.3%. 
+- Average Math Score decresed by 0.1%. 
+- Average Reading Score stayed the same. 
+- % Passing Math decreased by 0.2%. 
+- % Passing Reading decreased by 0.1%. 
+- % Overall Passing decreased by 0.3%. 
 
 ## Summary
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.

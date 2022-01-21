@@ -82,6 +82,15 @@ Updated Reading Scores
 <img width="303" alt="Updated Read Avg" src="https://user-images.githubusercontent.com/93845867/150455039-ae961c46-3f5c-4487-872e-3b20c404b93d.png">
 
 - Scores by school spending
+
+Original Scores by School Spending
+
+<img width="804" alt="Original Scores by School Spending" src="https://user-images.githubusercontent.com/93845867/150455754-675d012c-951b-4bc5-9b88-a6689522540a.png">
+
+Updated Scores by School Spending
+
+<img width="644" alt="Updated Scores by School Spending" src="https://user-images.githubusercontent.com/93845867/150455776-cb06a9f7-58dd-45ec-9c07-01515c215488.png">
+
 - Scores by school size
 - Scores by school type
 

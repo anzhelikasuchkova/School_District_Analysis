@@ -64,6 +64,19 @@ Updated Top 5 Schools
 
 ### 4. How does replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade
+
+Original Math Scores
+<img width="307" alt="Original Math Avg" src="https://user-images.githubusercontent.com/93845867/150454974-2b61915b-5d70-4114-9bad-f13a16e04ed5.png">
+
+Updated Math Scores
+<img width="309" alt="Updated Math Avg" src="https://user-images.githubusercontent.com/93845867/150454998-3eb7c688-5d81-4acc-8b22-ed2128321ac7.png">
+
+Original Reading Scores
+<img width="314" alt="Original Read Avg" src="https://user-images.githubusercontent.com/93845867/150455017-3b5bc7e2-e1cc-48d6-b373-0e181a6f146b.png">
+
+Updated Reading Scores
+<img width="303" alt="Updated Read Avg" src="https://user-images.githubusercontent.com/93845867/150455039-ae961c46-3f5c-4487-872e-3b20c404b93d.png">
+
 - Scores by school spending
 - Scores by school size
 - Scores by school type

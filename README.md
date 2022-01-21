@@ -45,5 +45,9 @@ Updated School Summary
 
 Removing the 9th grade students from the data set had a large impact by dropping from **91%** to **65%** for the overall passing rate.
 
+### 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+
+
 ## Summary
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
